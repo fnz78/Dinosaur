@@ -1,0 +1,5 @@
+{
+  "name": "Dino Game",
+  "description": "A pure CSS pixel-art UI for a Chrome Dino-style game.",
+  "requestFramePermissions": []
+}
