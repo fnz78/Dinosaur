@@ -1,4 +1,4 @@
-# Pixel Dino Runner
+# Dinosaur
 
 ```text
            ████████
