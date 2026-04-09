@@ -22,6 +22,7 @@
 ## 🌵 About The Game
 A creative, fully playable pixel-art endless runner inspired by the classic offline browser game. Built entirely with HTML, CSS, and vanilla JavaScript!
 
+
 ## ✨ Features
 - **Authentic Pixel Art:** Custom CSS-drawn dinosaur, cacti, and birds, complete with subtle running and tail-wag animations.
 - **Dynamic Physics:** Responsive jumping with peak deceleration for that perfect "hang time".
